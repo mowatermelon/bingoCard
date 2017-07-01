@@ -1,0 +1,13 @@
+{
+  "bingo.html": {
+    "href": "bingo.html",
+    "resources": [
+      "css/number.css",
+      "js/number.js"
+    ],
+    "refer": [
+      "bingo.html"
+    ],
+    "priority": 0
+  }
+}
